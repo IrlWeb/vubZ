@@ -7,7 +7,7 @@ the script host are **not** included, so this is not a standalone executor.
 ## Scope
 
 - Module version: `1.0.0`
-- Target client: Roblox **0.745.0.7451137** (`version-5a21b87bbc2641cf`)
+- Target client: Roblox **0.745.0.7451137** (`version-5a21b87bbc2641cf`) (Outdated)
 - Platform: Windows x64
 - Output: `supQ/supQ-Module.dll`
 
